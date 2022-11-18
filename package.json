@@ -1,15 +1,23 @@
 {
-    "name": "desafio4",
+    "name": "desafio-4",
     "version": "1.0.0",
+    "description": "",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon src/routes/index"
+        "start": "nodemon src/routes/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Belensch/Desafio-4--Backend.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": "",
+    "bugs": {
+        "url": "https://github.com/Belensch/Desafio-4--Backend/issues"
+    },
+    "homepage": "https://github.com/Belensch/Desafio-4--Backend#readme",
     "dependencies": {
         "express": "^4.18.2"
     },
